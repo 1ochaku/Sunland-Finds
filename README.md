@@ -1,6 +1,6 @@
 # Marketplace Mobile Application
 
-This is a mobile app built using React Native Framework and Firebase as the database. It provides a simple user interface with 3 tabs: Home, Sell and Profile.
+This is a prototype of the mobile app built using React Native Framework and Firebase as the database. It provides a simple user interface with 3 tabs: Home, Sell and Profile.
 
 ## Techstack
 - React Native Framework
