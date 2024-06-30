@@ -1,4 +1,4 @@
-# Marketplace Mobile Application
+# A Marketplace Mobile Application
 
 This is a prototype of the mobile app built using React Native Framework and Firebase as the database. It provides a simple user interface with 3 tabs: Home, Sell and Profile.
 
